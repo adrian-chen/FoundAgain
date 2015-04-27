@@ -22,8 +22,8 @@ Use Case 3: Search and Rescue Teams
 6.	Map with Survivor Pins
 
 ## System Architecture
-![System Architecture]()
+![System Architecture](system.jpg)
 
 ## Mockups
-![System Architecture]()
-![System Architecture]()
+![System Architecture](mockup1.jpg)
+![System Architecture](mockup2.jpg)
